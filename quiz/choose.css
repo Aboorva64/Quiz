@@ -1,0 +1,27 @@
+body {
+    background-image: url('quiz.jpg');
+    height: fit-content;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    padding: 200px;
+    font-size: 100px;
+}
+
+.button {
+    border-radius: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(0, 17, 255);
+    cursor: pointer;
+    justify-content: center;
+    display: "flux";
+    height: ;
+
+}
